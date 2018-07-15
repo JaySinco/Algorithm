@@ -1,9 +1,8 @@
 #include <iostream>
 
-void test_n2chs();
+void test_bucket();
 
 int main()
 {
-	
-	test_n2chs();
+	test_bucket();
 }
